@@ -1,1 +1,1 @@
-# Simple Comparison of Array Elemements
+# Simple Comparison of Array Elements
